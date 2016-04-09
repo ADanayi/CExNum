@@ -1,11 +1,12 @@
 // In the name of God
-// This class is made to hold all the difinitions
-// and operational functions of the application.
+// CExNum == Class of EXtended Numbers
+// V 0.0 (!) :)
 // Created by ADanayi
-// Advanced Programming 2016
-// HW4 Q8
+// #Dr. Jahanshahi ;)
 
-#define MAXDIG 1000
+// Note: The class uses dynamic arrays of data, however in the first version,
+//       You can change MAXDIG as the highest order of digits you need.
+#define MAXDIG 100
 #include <iostream>
 #include <string>
 
