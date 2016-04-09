@@ -3,7 +3,7 @@ Unlimited BCD numbers for C++, Working with int numbers
 Just creat a number!
 Both:
   CExNum num1{12};
-ans
+and
   CExNum num1{"12"};
 work.
 
